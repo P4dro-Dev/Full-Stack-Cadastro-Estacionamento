@@ -2,3 +2,4 @@
 Nesse projeto, eu e o meu amigo, Rafael Roseno, trabalhamos no projeto Full Stack. Com o objetivo de cadastrar os veículos em um estacionamento de alguma Instituição, ou empresa. Para o Desenvolvimento, foi utilizado  às Tecnologias: Python,
 
 
+
