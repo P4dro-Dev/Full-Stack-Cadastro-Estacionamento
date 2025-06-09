@@ -4,7 +4,7 @@
 [![Django](https://img.shields.io/badge/Django-4.x-brightgreen.svg)](https://www.djangoproject.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-blue.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Built with Docker](https://img.shields.io/badge/Built%20with-Docker-blue.svg)](https://www.docker.com/)
+[![Built with Docker](https://img.shields.io/badge/Built%20with-Docker-blue.svg)](https://www.docker.com/) 
 
 ---
 
