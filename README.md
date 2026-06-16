@@ -11,7 +11,7 @@
 ## 📄 Sumário     
   
 * [Visão Geral do Projeto](#-visão-geral-do-projeto) 
-* [Objetivos](#-objetivos)
+* [Objetivos](#-objetivos) 
 * [Funcionalidades Principais](#-funcionalidades-principais)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 * [Arquitetura do Sistema](#-arquitetura-do-sistema)
