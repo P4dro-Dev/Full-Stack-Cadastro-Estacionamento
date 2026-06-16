@@ -10,7 +10,7 @@
        
 ## 📄 Sumário     
   
-* [Visão Geral do Projeto](#-visão-geral-do-projeto) 
+* [Visão Geral do Projeto](#-visão-geral-do-projeto)  
 * [Objetivos](#-objetivos) 
 * [Funcionalidades Principais](#-funcionalidades-principais)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
